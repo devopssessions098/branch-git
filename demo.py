@@ -1,1 +1,1 @@
-print("this test for demo")
+print("this is a demo test")
